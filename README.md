@@ -1,2 +1,2 @@
 # jenkinswebhook
-TBD
+test demoscript.bash
